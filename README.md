@@ -1,2 +1,2 @@
 # Snake-game
-The classic Snake game in java
+The classic Snake game created to understand how to make a simple java app.
